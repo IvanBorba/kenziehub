@@ -1,20 +1,33 @@
-# API: 
+# KenzieHub: 
 
+This project was created with study purposes.
+
+## Developers:
+
+I've developed this project together with my colleagues at Kenzie Academy Brasil.
+In the project we worked with SCRUM, I've received the Scrum Master Role but everyone act as an developer two.
+
+### Development Parteners:
+
+Howard Ricardo's (Tech Leader + Developer) GitLab > https://gitlab.com/howardricardo
+Mariana Antunes's (Product Owner + Developer) GitLab > https://gitlab.com/marianaantunes
+Jeferson Borba's (QA + Developer) GitLab > https://gitlab.com/jefersonborba
+Mariuzan Souza's (Developer) GitLab > https://gitlab.com/mariuzan
+
+## API:
+
+At this project our educacional instituition provided us an API designed to handle developers registers, with works and techs as users attributes.
+We choose axios library to do our HTTP requisitions.
 
 API link: [Click here](https://gitlab.com/ka-br-jul-2020/kenziehub-api)
 
-# Discord:
+## Techs and Libraries:
 
-Discord link: [Click here](https://discord.com/invite/HkDBzmu2)
+We used some React.js libraries such as react-router-dom, react-hook-form, yup, material-ui components, styled-components, react-redux, redux-thunk and wavifi.
 
-# Notion:
+### Instructions:
+Do not use your personal password or any other sensitive informations, the API wasnt criptographed.
 
-Notion link: [Click here](https://www.notion.so/Dashboard-c79c28470a3a49e188ebc80ff37c1a6f)
+Feel free to navigate and to give me any feedbacks.
 
-### `Remember if:`
-
-Use the correct branch and always before you merge the master,
-make a meeting to be sure.
-
-
-## This project has been without conflict for `7` days
+ ### Thanks!
