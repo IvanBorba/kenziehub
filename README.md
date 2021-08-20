@@ -7,7 +7,7 @@ This project was created with study purposes.
 I've developed this project together with my colleagues at Kenzie Academy Brasil.
 In the project we worked with SCRUM, I've received the Scrum Master Role but everyone act as an developer two.
 
-### Development Parteners:
+### Development Partners:
 
 Howard Ricardo's (Tech Leader + Developer) GitLab > https://gitlab.com/howardricardo
 Mariana Antunes's (Product Owner + Developer) GitLab > https://gitlab.com/marianaantunes
